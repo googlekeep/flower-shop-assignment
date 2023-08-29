@@ -54,49 +54,81 @@ header{
 
 
 /* our futureed flower stylesheet */
-
-.our-featured-fl{
-    align-items: center;
-    
-}
-.our-featured-fl h3{
+.off_title {
     color: #272727;
     text-align: center;
-    font-size: 40px;
+    font-size: 44px;
     font-weight: 800;
+    margin: 129px 0px 24px 0px;
 }
-.our-featured-p{
-    width: 100%;
-    color: rgba(39, 39, 39, 0.60);
+
+.off_description {
+    color: #27272799;
     text-align: center;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 400;
+    margin: 0px 375px 50px 375px;
     line-height: 30px;
 }
 
-
-.card-container {
+.off_image_container {
     display: flex;
-    gap: 20px;
     justify-content: center;
-    width: 80%;
-  }
-  .card {
-    width: 464px;
-    height: 538px;
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(167, 33, 98, 0.15);
-  }
-  .card img {
-    width: 310px;
-    height: 428px;
-    
-  }
-  .card-p{
+    gap: 33px;
+}
+
+.oof_image_1st_div {
+    border-radius: 190px 190px 0px 0px;
+    width: 390px;
+    height: 529px;
+    background: #a7216226;
+}
+
+.oof_img_1 {
+    padding: 101px 0px 0px 35px;
+}
+
+.oof_image_2nd_div {
+    border-radius: 190px 190px 0px 0px;
+    width: 390px;
+    height: 529px;
+    background: #0597a026;
+}
+
+.oof_img_2 {
+    padding: 110px 0px 0px 18px;
+}
+
+.oof_image_3rd_div {
+    border-radius: 190px 190px 0px 0px;
+    width: 390px;
+    height: 529px;
+    background: #477d1126;
+}
+
+.oof_img_3 {
+    padding: 56px 0px 0px 40px;
+}
+
+.off_description_div {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 16px;
     color: #272727;
     text-align: center;
-    font-size: 24px;
+    font-size: 14px;
     font-weight: 700;
-    line-height: 35px; 
     text-decoration-line: underline;
-  }
+}
+
+.oof_description_1 {
+    padding: 0px 0px 0px 108px;
+}
+
+.oof_description_2 {
+    padding: 0px 0px 0px 0px;
+}
+
+.oof_description_3 {
+    padding: 0px 109px 0px 0px;
+}
