@@ -276,7 +276,7 @@ header{
 .deals-container {
     margin-top: 500px;
     border-radius: 8px;
-    background-image: url('/Flower Asset/Rectangle\ 9.png');
+    background-image: url('./Flower Asset/Rectangle\ 9.png');
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 1250px;
