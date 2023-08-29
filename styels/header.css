@@ -187,7 +187,7 @@ header{
     padding: 12px 0px 0px 0px;
 }
 
-/* part stylesheeet  */
+/* part stylesheet  */
 .discount {
     display: flex;
     justify-content: space-around;
@@ -216,3 +216,58 @@ header{
 #discount_btn {
     margin: 23px 0px 0px 202px;
 }
+
+
+
+ /* Instagram part start  */
+ .instagram {
+    height: 89px;
+    width: 1235px;
+    margin: 108px auto;
+}
+
+.insta_title {
+    color: #272727;
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.insta_description {
+    color: #27272799;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 16px 320px 32px 320px;
+}
+
+.insta_image_container {
+    display: flex;
+
+}
+
+.insta_image1 {
+    width: 300px;
+    height: 330px;
+    margin: 0px 10px 30px 0px;
+}
+
+.insta_image2 {
+    width: 300px;
+    height: 330px;
+    margin: 0px 10px 30px 10px;
+}
+
+.insta_image3 {
+    margin: 0px 10px 30px 10px;
+    width: 300px;
+    height: 330px;
+}
+
+.insta_image4 {
+    margin: 0px 0px 30px 10px;
+    width: 300px;
+    height: 330px;
+}
+/* Instagram part end  */
