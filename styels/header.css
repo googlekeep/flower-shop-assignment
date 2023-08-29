@@ -305,3 +305,37 @@ header{
     margin-left: 10px;
 }
 /* Deals style part end */
+
+
+/* footer styels start */
+.foot{
+    background: #111010;
+    text-align: center;
+    color: #FFF;
+    margin-top: 100px;
+}
+.foot-ele{
+    padding: 100px 30px;
+}
+
+.foot_title{
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 16px;
+    
+}
+.foot_title span{
+    color:#E55473;
+}
+
+.foot_des{
+    margin-bottom: 16px;
+    
+}
+
+.add{
+    color: #ffffff66;
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+}
